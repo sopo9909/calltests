@@ -1,0 +1,6 @@
+uvicorn == 0.17.6
+fastapi == 0.75.2
+sqlalchemy
+pydantic[dotenv]
+psycopg2-binary
+pymysql
